@@ -18,6 +18,8 @@ echo "x= $x";
 echo "<br> y= $y";
 echo "<br> x+y= " .$x + $y;
 
+print("<br>utilizei o comando print")
+
     ?>
 
 </body>
