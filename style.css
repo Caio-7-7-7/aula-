@@ -1,0 +1,9 @@
+button{
+    background-color: aliceblue;
+transition: 0.5s;
+border-radius: 5px;
+}
+
+button:hover{
+padding: 2%;
+}

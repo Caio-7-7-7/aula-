@@ -5,6 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=
     , initial-scale=1.0">
+    <link rel="stylesheet" href="style.css"> 
     <title>Document</title>
 
     <style>
@@ -46,11 +47,14 @@
         <h3>utilizando formulários</h3>
 
 
-        <form>
-            <label class="nome" for="name">nome:</label><br>
+        <form action="index.php">
+            <label class="nome" for="nome" name="nome">nome:</label><br>
             <input id="nome" type="text"><br><br>
             <label for="senha">senha:</label><br>   
-            <input id="senha" type="password">
+            <input id="senha" type="password" name="senha"><br><br>  <br>
+            
+            <button type="submit">Aperte o botão </button>
+           
         </form>
     </div>
 </body>
