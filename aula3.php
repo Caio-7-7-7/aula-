@@ -47,7 +47,7 @@
         <h3>utilizando formulários</h3>
 
 
-        <form action="index.php">
+        <form action="index.php" method="post">
             <label class="nome" for="nome" name="nome">nome:</label><br>
             <input id="nome" type="text"><br><br>
             <label for="senha">senha:</label><br>   

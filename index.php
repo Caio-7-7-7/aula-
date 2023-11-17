@@ -9,9 +9,9 @@
     <h1>página inicial</h1>
 
     <?php
-echo $_GET["nome"]; 
+echo $_POST["nome"]; 
 echo"<br>";
-echo $_GET["senha"];
+echo $_POST["senha"];
 
 
 
