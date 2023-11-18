@@ -47,10 +47,10 @@
         <h3>utilizando formulários</h3>
 
 
-        <form action="index.php" method="post">
-            <label class="nome" for="nome" name="nome">nome:</label><br>
-            <input id="nome" type="text"><br><br>
-            <label for="senha">senha:</label><br>   
+        <form action="index.php" method="POST">
+            <label class="nome" for="nome" name="nome">nome</label><br>
+            <input id="nome" type="text" name="nome"><br><br>
+            <label name="senha" for="senha">senha</label><br>   
             <input id="senha" type="password" name="senha"><br><br>  <br>
             
             <button type="submit">Aperte o botão </button>

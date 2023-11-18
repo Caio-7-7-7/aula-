@@ -7,3 +7,33 @@ border-radius: 5px;
 button:hover{
 padding: 2%;
 }
+
+
+
+
+
+
+
+/*=========INDEX===========*/
+
+.body-index{
+    
+text-align: center;
+
+}
+
+
+
+/*=========Aula4===========*//*=========Aula4===========*//*=========Aula4===========*//*=========Aula4===========*/
+
+.body-aula4{
+    text-align: center;
+}
+
+.form-aula4{
+    
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: aquamarine;
+}
