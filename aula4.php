@@ -1,7 +1,3 @@
-<?php
-// Seu código PHP aqui, se necessário
-?>
-
 <!DOCTYPE html>
 <html lang="en">
 
@@ -29,7 +25,7 @@
         <label for="senha">Senha</label><br>
         <input type="password" name="senha" id="senha"><br><br>
 
-        <textarea name="textarea" id="textarea" cols="30" rows="10"></textarea><br>
+        <!-- <textarea name="textarea" id="textarea" cols="30" rows="10"></textarea><br> -->
         <input type="submit">
     </form>
 </body>
