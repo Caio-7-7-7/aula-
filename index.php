@@ -11,9 +11,9 @@
 
     <?php
 
-$nome = $_POST["nome"];
-$senha = $_POST["senha"];
-$email = $POST["email"];
+$nome=$_POST["nome"];
+$senha=$_POST["senha"];
+$email=$_POST["email"];
 
 if($nome=="caio" && $senha=="12345")
 header("location!: "." site.php");
